@@ -8,9 +8,9 @@ Usar HTML Y CSS es forma muy interesante de empezar a aprender programación o d
 ## ¿Qué construí? ❇️
 Se construyó una interfaz idéntica a la Google actualmente, la cual estuvo divida en 3 secciones de HTML principales: 
 
-1. Sección Header
-2. Sección Main
-3. Sección Footer
+ 🔴 1. Sección Header
+ 🔵 2. Sección Main
+ ⚪ 3. Sección Footer
    
 ## Objetivos  🚀
-// Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades.
+// Apredizaje // Práctica // Introducción a HTML y CSS así como sus elementos y propiedades. 🌌
